@@ -14,3 +14,9 @@
 6. Apple M Series
 
 ## [CPU Architecture](CPU_Architecture.md)
+1. x86
+2. ARM
+3. RISC-V
+
+
+## Something
