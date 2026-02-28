@@ -6,8 +6,8 @@
 3. Qualcomm
 4. Apple
 
-## Chips
-1. Intel Lake
-2. AMD Ryzen
-3. Qualcomm Snapdragon
-4. Apple M
+## Chips (Main)
+1. Intel: Core, Core Ultra
+3. AMD Ryzen
+4. Qualcomm Snapdragon
+5. Apple M Series
