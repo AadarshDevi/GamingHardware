@@ -1,4 +1,4 @@
-[<--- Home]([README.md](https://github.com/AadarshDevi/Hardware))
+[<--- Home](https://github.com/AadarshDevi/Hardware)
 
 # NVIDIA GeForce RTX Graphics Cards
 
